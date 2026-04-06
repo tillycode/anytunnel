@@ -1,0 +1,7 @@
+/.*
+/Makefile
+/Dockerfile
+/anytunnel
+/flake.nix
+/flake.lock
+/nix
